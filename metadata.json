@@ -1,0 +1,5 @@
+{
+  "name": "GitIsMatch",
+  "description": "Analyze your GitHub profile using Gemini to find the perfect open source issues for you to solve.",
+  "requestFramePermissions": []
+}
