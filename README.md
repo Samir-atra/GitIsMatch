@@ -2,6 +2,8 @@
 
 **Match your code with purpose.**
 
+Demo Video: [YouTube](https://youtu.be/uuZ0VhK5V0I)
+
 GitIsMatch is an intelligent web application that bridges the gap between developers and open-source contributions. By analyzing your GitHub profile using Google's Gemini AI, it creates a unique "coding persona" based on your repositories and bio, then actively searches for "help wanted" issues that align with your specific skills and interests.
 
 ## 🚀 Features
