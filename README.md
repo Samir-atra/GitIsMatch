@@ -1,5 +1,12 @@
 # GitIsMatch
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=samiratra95@gmail.com&item_name=Code+Broker+Donation&currency_code=USD)
+[![License](https://img.shields.io/github/license/Samir-atra/GitIsMatch)](https://github.com/Samir-atra/GitIsMatch/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Samir-atra/GitIsMatch)](https://github.com/Samir-atra/GitIsMatch/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Samir-atra/GitIsMatch)](https://github.com/Samir-atra/GitIsMatch/network)
+[![GitHub issues](https://img.shields.io/github/issues/Samir-atra/GitIsMatch)](https://github.com/Samir-atra/GitIsMatch/issues)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch_Demo-red?logo=youtube)](https://youtu.be/uuZ0VhK5V0I)
+
 **Match your code with purpose.**
 
 Demo Video: [YouTube](https://youtu.be/uuZ0VhK5V0I)
